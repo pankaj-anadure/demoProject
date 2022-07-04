@@ -6,5 +6,6 @@ public class Abc
 		{
 			System.out.println("HELLO Everybody");	
 		}
+		System.out.println("Just for Demo");
 	}
 }
